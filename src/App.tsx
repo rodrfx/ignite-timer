@@ -11,6 +11,6 @@ export const App = () => {
         <Router />
       </BrowserRouter>
       <GlobalStyle />
-    </ThemeProvider >
+    </ThemeProvider>
   )
 }
